@@ -1,0 +1,17 @@
+100  mesh.yam1
+101  gruneisen.yaml
+102  velo.yaml
+
+
+
+103  mesh.dat
+104  gru.dat
+105  velo.dat
+106  themcond.in    !这个文件里面是一些控制参数包括(温度,平均原子质量,q点数,模式数,高斯展宽,有效体积)
+
+
+
+107  cv.dat
+108  debye.dat
+109  relax.dat
+110  kappL.dat

@@ -1,0 +1,30 @@
+str1,str2,str3,str4,str5,str6 不需要的字符
+natoms    原子个数
+iq,nq     q点指标 q点数
+im,nm     模式指标 模式数
+iskip0             跳行指标
+iskip1 nskip1      跳行指标 跳行数
+iskip2 nskip2      跳行指标 跳行数
+weight(:)          q点权重
+freq(:,:)          声子频率
+velo(:,:,:)        声子群速度
+gru(:,:)           声子格林爱森常数
+Tem   温度
+volum 体积
+x       hbar*声子频率/kb*Tem
+C(:,:)  声子热容
+nw
+minw
+maxw
+dew
+w(:)
+iw        
+factor1
+factor2   
+dos        模式态密度
+smear      delta函数展宽
+debye2     德拜温度平方
+debye      德拜温度
+scat(:,:)  声子散射率
+tao(:,:)   声子弛豫时间
+M          平均原子质量  
